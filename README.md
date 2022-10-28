@@ -2,8 +2,8 @@
 
 My name is Murilo, I'm full-stack developer and I'm from Brazil.
 
-- 🔭 I'm currently working on EmpreendeAqui Tecnologia;
-- 🎓 I'm currently studying Analysis and Systems Development at Instituto Federal de São Paulo (4/6 semesters);
+- 🔭 I'm currently working on Target Software;
+- 🎓 I'm currently studying Analysis and Systems Development at Instituto Federal de São Paulo (5/6 semesters);
 - ⚡ I have skills with:
   - Markup Languages: HTML;
   - Style Languages: CSS;
